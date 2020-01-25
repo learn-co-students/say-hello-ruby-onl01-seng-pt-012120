@@ -6,6 +6,6 @@
 # greeting_say_hello("Grabriela!")
 
 def greeting_say_hello(name = "ruby programmer")
- puts "Hello, #{name}"
+ puts "Hello, #{name}!"
   end
-  greeting_say_hello("Grabriela!")
+  greeting_say_hello("Grabriela")
